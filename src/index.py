@@ -1,4 +1,4 @@
 def testi():
-    return print("testi")
+    pass
 
 __
