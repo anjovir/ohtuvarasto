@@ -1,4 +1,0 @@
-def testi():
-    pass
-
-__
